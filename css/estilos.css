@@ -227,7 +227,7 @@ nav a:hover  {
     justify-content: space-between;
     position: relative;
 
-    background-image: url(../images/background-cover.svg);
+    background-image: url(images/background-cover.svg);
     background-size: cover;
     background-position: bottom;
 }
@@ -385,11 +385,11 @@ footer{
     padding: 50px 0px;
     font-family: sans-serif;
     *background-color: var(--color-esqueleto);
-    background-image: url("E:\2documentos\logistica\pagina 2\imagenes");
+    background-image: url("\imagenes");
     background-size: cover;
 
-    /*webkit-mask-image: url("E:\2documentos\logistica\pagina 2\imagenes");
-    mask-image: url("E:\2documentos\logistica\pagina 2\imagenes");
+    /*webkit-mask-image: url("\imagenes");
+    mask-image: url("\imagenes");
     -webkit-mask-size: cover;
     mask-size: cover;*/
 }
