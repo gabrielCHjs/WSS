@@ -146,6 +146,8 @@ nav ul li a{
     background-color: black;
     border: 1px solid black;
     border-radius: 4px;
+    display: flex;
+            justify-content: flex-end;
   }
   
   label {
