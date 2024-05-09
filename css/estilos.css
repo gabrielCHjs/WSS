@@ -79,6 +79,7 @@ nav ul li a{
  /*contenido*/ 
 
  .nosotros {
+    text-align: center;
     background-color: #f9f9f9;
     padding: 20px;
     border: 1px solid #ddd;
@@ -98,6 +99,7 @@ nav ul li a{
   }
   
   .servicios {
+    text-align: center;
     background-color: #f9f9f9;
     padding: 20px;
     border: 1px solid #ddd;
@@ -117,6 +119,7 @@ nav ul li a{
   }
   
   .contact {
+    text-align: center;  
     background-color: #f9f9f9;
     padding: 20px;
     border: 1px solid #ddd;
