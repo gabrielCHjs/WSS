@@ -147,7 +147,7 @@ nav ul li a{
     border: 1px solid black;
     border-radius: 4px;
     display: flex;
-            justify-content: flex-end;
+    justify-content: flex-end;
   }
   
   label {
