@@ -75,6 +75,10 @@ nav ul li{
 nav ul li a{
     color: #faf8f8;
     font-size: 14px;
+    border: 1px solid #ff0000; /* Cambia el color rojo (#ff0000) por el color que desees */
+    padding: 5px; /* Espacio alrededor del texto */
+    text-decoration: none; /* Elimina la subrayado por defecto */
+
 }
  /*contenido*/ 
 
